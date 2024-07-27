@@ -1,3 +1,8 @@
+/* HALF PYRAMID
+* 
+** 
+*** 
+**** */
 package patterns;
 
 public class Ex3 {

@@ -1,3 +1,10 @@
+/*INVERTED HALF PYRAMID WITH NUMBERS
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2
+1
+ */
 package patterns;
 public class Ex7 {
     public static void main(String[]args){

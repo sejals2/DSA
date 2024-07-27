@@ -1,3 +1,14 @@
+/* SOLID ROMBHUS
+    *****
+   *****
+  *****
+ *****
+*****
+ */
+
+
+
+
 package patterns;
 
 public class Ex11 {

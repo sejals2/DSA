@@ -1,3 +1,9 @@
+/*INVERTED HALF PYRAMID 
+**** 
+*** 
+** 
+* 
+*/
 package patterns;
 
 public class Ex4 {

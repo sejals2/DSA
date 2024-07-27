@@ -1,3 +1,10 @@
+/*TRIANGLE
+1
+01
+101
+0101
+10101
+ */
 package patterns;
 
 public class Ex9 {

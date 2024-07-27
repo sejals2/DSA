@@ -1,3 +1,13 @@
+/*DIAMOND PATTERN
+   *
+  ***
+ *****
+*******
+*******
+ *****
+  ***
+   *
+*/
 package patterns;
 
 public class Ex14 {

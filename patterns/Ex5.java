@@ -1,3 +1,10 @@
+/*INVERTED HALF PYRAMID
+  (ROTATED BY 180 DEG)
+   *
+  **
+ ***
+****
+ */
 package patterns;
 
 public class Ex5 {

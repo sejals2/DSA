@@ -1,3 +1,11 @@
+/*PALINDROMIC PATTERN
+    1
+   212
+  32123
+ 4321234
+543212345
+ 
+*/
 package patterns;
 
 public class Ex13 {

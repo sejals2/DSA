@@ -1,3 +1,9 @@
+/*HOLLOW RECTANGLE
+*****
+*   *
+*   *
+*****   */
+
 package patterns;
 
 public class Ex2 {
