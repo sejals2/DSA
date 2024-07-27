@@ -1,3 +1,9 @@
+/* SOLID RECTANGLE 
+   *****
+   *****
+   *****
+   ***** */
+
 package patterns;
 
 public class Ex1 {
